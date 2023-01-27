@@ -17,7 +17,7 @@ mvn spring-boot:run
 
 ## Swagger 📋
 
-* [local](http://localhost:8080/api/swagger-ui/
+* [local](http://localhost:8080/api/swagger-ui/)
 
 ## Actuator - app health📋
 
